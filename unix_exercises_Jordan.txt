@@ -1,0 +1,23 @@
+2.  a. /home/kylejo04/Astro192
+
+4.  a. 6 files
+    b. StarCharts.pdf
+    c. ls -lh
+   
+5.  a. cp StarHeader.txt junk.dat
+
+6.  a. mv junk.dat junque.dat
+
+7.  a. rm junque.dat
+
+8.  a. cat StarHeader.txt
+    b. Num       RA             DE          Vmag   B-V   Parallax    uRA     uDec
+   
+9.  a. echo Kyle Jordan > small.dat
+
+10. a. head -100 BrightStars.dat | cat > small.dat
+
+11. a. tail -10 BrightStars.dat | cat >> small.dat
+
+12. a. BrightStars.dat has 5016 lines. small.dat has 110 lines
+    b. wc BrightStars.dat and wc small.dat
